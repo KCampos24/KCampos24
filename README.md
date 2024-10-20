@@ -5,6 +5,7 @@
 - <b>SQL</b>
   - [Basics and Queries](https://github.com/KCampos24/SQL-Basics-and-Queries)
   - [The WHERE Clause](https://github.com/KCampos24/The-Where-Clause)
+  - [Apply a SQL Filter](https://github.com/KCampos24/Applying-a-SQL-Filter)
 - <b>Linux</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
