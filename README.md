@@ -8,7 +8,9 @@
   - [Apply a SQL Filter](https://github.com/KCampos24/Applying-a-SQL-Filter)
   - [The JOINS](https://github.com/KCampos24/The-JOINS/tree/main)
 - <b>Linux</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [File Permissions](https://github.com/KCampos24/File-Permissions/tree/main)
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Python</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
