@@ -6,11 +6,11 @@
   - [Basics and Queries](https://github.com/KCampos24/SQL-Basics-and-Queries)
   - [The WHERE Clause](https://github.com/KCampos24/The-Where-Clause)
   - [Apply a SQL Filter](https://github.com/KCampos24/Applying-a-SQL-Filter)
-  - [The JOINS](https://github.com/KCampos24/The-JOINS/tree/main)
+  - [The JOINS](https://github.com/KCampos24/The-JOINS)
 - <b>Linux</b>
-  - [File Permissions](https://github.com/KCampos24/File-Permissions/tree/main)
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [File Permissions](https://github.com/KCampos24/File-Permissions)
+  - [Managing Users](https://github.com/KCampos24/Managing-Users)
+  - [Comparing Files with Hash Values](https://github.com/KCampos24/Comparing-Files-with-Hash-Values)
 - <b>Python</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
