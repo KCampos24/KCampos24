@@ -11,6 +11,7 @@
   - [File Permissions](https://github.com/KCampos24/File-Permissions)
   - [Managing Users](https://github.com/KCampos24/Managing-Users)
   - [Comparing Files with Hash Values](https://github.com/KCampos24/Comparing-Files-with-Hash-Values)
+  - [Decrypt an Encrypted Message](https://github.com/KCampos24/Decrypt-an-Encrypted-Message)
 - <b>Python</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
