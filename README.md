@@ -29,8 +29,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="KevinCampos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: brightness(0) saturate(100%) invert(74%) sepia(8%) saturate(566%) hue-rotate(186deg) brightness(97%) contrast(96%);"/>][linkedin]
-[<img align="left" alt="KevinCampos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="filter: brightness(0) saturate(100%) invert(74%) sepia(8%) saturate(566%) hue-rotate(186deg) brightness(97%) contrast(96%);" />][instagram]
+[<img align="left" alt="KevinCampos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="KevinCampos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 
 
