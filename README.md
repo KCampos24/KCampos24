@@ -19,8 +19,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>SIEM Tools</b>
   - [Phishing Investigation with Google Chronicle](https://github.com/KCampos24/Phishing-Investigation-with-Chronicle)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Utilizing Splunk for Data Analysis](https://github.com/KCampos24/Utilizing-Splunk-for-Data-Analysis)
 
 <h2>🎓 Certifications:</h2>
 
