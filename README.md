@@ -13,10 +13,7 @@
   - [Comparing Files with Hash Values](https://github.com/KCampos24/Comparing-Files-with-Hash-Values)
   - [Decrypt an Encrypted Message](https://github.com/KCampos24/Decrypt-an-Encrypted-Message)
 - <b>Python</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [The Role of File Parsing to Maintain Secure Access Control](https://github.com/KCampos24/Authorized-Personnel-Only)
 - <b>SIEM Tools</b>
   - [Phishing Investigation with Google Chronicle](https://github.com/KCampos24/Phishing-Investigation-with-Chronicle)
   - [Utilizing Splunk for Data Analysis](https://github.com/KCampos24/Utilizing-Splunk-for-Data-Analysis)
@@ -24,14 +21,16 @@
 <h2>🎓 Certifications:</h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/HW8J8X3OPP7B)
+- [CompTIA Security +](https://www.comptia.org/certifications/security) (In Progress)
+- [GRC Mastery](https://www.grcmastery.com/) (In Progress)
 
 
 
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="KevinCampos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KevinCampos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
